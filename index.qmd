@@ -5,3 +5,5 @@ title: "jiajieooBU.github.io"
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+[]{./images/Image_20250208184618.jgp}{width-"75%" fig-align-"center"}
